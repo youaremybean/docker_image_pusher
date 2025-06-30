@@ -1,5 +1,5 @@
 hello-world
-matrim/cmake-examples:3.4.3
+matrim/cmake-examples:3.5.1
 ubuntu:22.04
 alpine:latest
 python:3.11
